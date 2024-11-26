@@ -1,8 +1,8 @@
 public class Person {
     
     public static void main (String[] args) {
-        String name = "Tan";
-        int age = 20;
+        String name = "TEU JIAN WEE";
+        int age = 22;
         double height = 1.75;
         boolean isStudent= true;
         long networth = 2500000000L;
