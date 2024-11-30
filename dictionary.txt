@@ -6,6 +6,11 @@
 / slash
 # hash
 $ dollar sign
+* abstract
 . dot
 : colon
 ; semi colon
+@ at or atsu=igned
+, comma
+! exclamation mark
+? question mark
