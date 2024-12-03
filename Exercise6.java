@@ -32,6 +32,7 @@ public class Exercise6 {
             default:
                 System.out.println("invalid number");
                 break;
+
         }
     }
     
